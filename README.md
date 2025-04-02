@@ -19,11 +19,10 @@ Our solution automates this entire process:
 
 - **`src/integration.py`**: Main integration code that connects Cardskipper and IVMS
 - **`src/streamlit_demo.py`**: Interactive demo application showing how the integration works
-- **`Docs/`**: Documentation files and client proposals
+- **`important_docs/`**: Documentation files and client proposals
   - `DEMO_INSTRUCTIONS.md`: Instructions for running the demo application
   - `prijateljska-ponudba.md`: Client proposal in Slovenian
   - `tehnicna-dokumentacija-slovenscina.md`: Technical documentation in Slovenian
-  - `python_implementation_plan.md`: Detailed implementation plan
   - `requirements.txt`: Required Python packages
 
 ## Demo Application
@@ -40,7 +39,7 @@ To run the demo:
 
 ```bash
 # Install requirements
-pip install -r Docs/requirements.txt
+pip install -r important_docs/requirements.txt
 
 # Run the Streamlit app
 streamlit run src/streamlit_demo.py

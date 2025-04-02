@@ -48,3 +48,6 @@ Thumbs.db
 mock_data/*.json
 mock_data/*.db
 mock_data/*.log
+
+# Exclude Docs folder
+Docs/
