@@ -1,4 +1,4 @@
-# Cardskipper to IVMS Integration
+# Cardskipper to IVMS Integration (Garaza Gym)
 
 This project provides a solution for automatically synchronizing membership validity dates between Cardskipper (digital membership platform) and IVMS (Hikvision's access control system). When members extend their subscriptions in Cardskipper, their access rights in IVMS are automatically updated.
 
