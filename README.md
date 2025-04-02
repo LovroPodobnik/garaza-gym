@@ -21,7 +21,6 @@ Our solution automates this entire process:
 - **`src/streamlit_demo.py`**: Interactive demo application showing how the integration works
 - **`important_docs/`**: Documentation files and client proposals
   - `DEMO_INSTRUCTIONS.md`: Instructions for running the demo application
-  - `prijateljska-ponudba.md`: Client proposal in Slovenian
   - `tehnicna-dokumentacija-slovenscina.md`: Technical documentation in Slovenian
   - `requirements.txt`: Required Python packages
 
