@@ -1,0 +1,130 @@
+2025-04-02 10:23:51,670 - MockIntegrationFinal - INFO - 
+================================================================================
+2025-04-02 10:23:51,670 - MockIntegrationFinal - INFO - STARTING CARDSKIPPER TO IVMS INTEGRATION SIMULATION
+2025-04-02 10:23:51,670 - MockIntegrationFinal - INFO - ================================================================================
+
+2025-04-02 10:23:51,673 - MockIntegrationFinal - INFO - Database initialized successfully
+2025-04-02 10:23:51,673 - MockIntegrationFinal - INFO - Initial system status:
+2025-04-02 10:23:51,673 - MockIntegrationFinal - INFO - - Cardskipper members: 20
+2025-04-02 10:23:51,677 - MockIntegrationFinal - INFO - - Cardskipper active members: 6
+2025-04-02 10:23:51,677 - MockIntegrationFinal - INFO - - IVMS users: 14
+2025-04-02 10:23:51,677 - MockIntegrationFinal - INFO - 
+Performing initial synchronization...
+2025-04-02 10:23:51,677 - MockIntegrationFinal - INFO - Starting synchronization
+2025-04-02 10:23:51,677 - MockIntegrationFinal - INFO - New member found: admil.kantarevic@example.com
+2025-04-02 10:23:51,677 - MockIntegrationFinal - INFO - Found IVMS employee number for admil.kantarevic@example.com: 00000053
+2025-04-02 10:23:51,678 - MockIntegrationFinal - INFO - Updated member in database: admil.kantarevic@example.com
+2025-04-02 10:23:51,678 - MockIntegrationFinal - INFO - New member found: admir.guberinic@example.com
+2025-04-02 10:23:51,678 - MockIntegrationFinal - INFO - Found IVMS employee number for admir.guberinic@example.com: 00000055
+2025-04-02 10:23:51,679 - MockIntegrationFinal - INFO - Updated member in database: admir.guberinic@example.com
+2025-04-02 10:23:51,679 - MockIntegrationFinal - INFO - New member found: jure.zupančič@example.com
+2025-04-02 10:23:51,680 - MockIntegrationFinal - INFO - Updated member in database: jure.zupančič@example.com
+2025-04-02 10:23:51,680 - MockIntegrationFinal - INFO - New member found: anja.novak@example.com
+2025-04-02 10:23:51,680 - MockIntegrationFinal - INFO - Updated member in database: anja.novak@example.com
+2025-04-02 10:23:51,680 - MockIntegrationFinal - INFO - New member found: matej.vidmar@example.com
+2025-04-02 10:23:51,681 - MockIntegrationFinal - INFO - Updated member in database: matej.vidmar@example.com
+2025-04-02 10:23:51,681 - MockIntegrationFinal - INFO - New member found: nejc.mlakar@example.com
+2025-04-02 10:23:51,682 - MockIntegrationFinal - INFO - Updated member in database: nejc.mlakar@example.com
+2025-04-02 10:23:51,682 - MockIntegrationFinal - INFO - Updated validity for user 00000053
+2025-04-02 10:23:51,682 - MockIntegrationFinal - INFO - Successfully updated IVMS for member admil.kantarevic@example.com
+2025-04-02 10:23:51,683 - MockIntegrationFinal - INFO - Updated validity for user 00000055
+2025-04-02 10:23:51,683 - MockIntegrationFinal - INFO - Successfully updated IVMS for member admir.guberinic@example.com
+2025-04-02 10:23:51,683 - MockIntegrationFinal - INFO - Synchronization completed: 2 updates performed
+2025-04-02 10:23:51,683 - MockIntegrationFinal - INFO - 
+Starting simulation cycle 1...
+2025-04-02 10:23:51,683 - MockIntegrationFinal - INFO - Extended membership for matej.vidmar@example.com by 60 days
+2025-04-02 10:23:51,684 - MockIntegrationFinal - INFO - ==================================================
+2025-04-02 10:23:51,684 - MockIntegrationFinal - INFO - MEMBERSHIP EXTENSION SIMULATION
+2025-04-02 10:23:51,684 - MockIntegrationFinal - INFO - ==================================================
+2025-04-02 10:23:51,684 - MockIntegrationFinal - INFO - Extended membership for: Matej Vidmar
+2025-04-02 10:23:51,684 - MockIntegrationFinal - INFO - Email: matej.vidmar@example.com
+2025-04-02 10:23:51,684 - MockIntegrationFinal - INFO - Membership: Študent
+2025-04-02 10:23:51,684 - MockIntegrationFinal - INFO - Old end date: 2025-06-30T23:59:59
+2025-04-02 10:23:51,684 - MockIntegrationFinal - INFO - New end date: 2025-08-29T23:59:59
+2025-04-02 10:23:51,684 - MockIntegrationFinal - INFO - Extended by: 60 days
+2025-04-02 10:23:51,684 - MockIntegrationFinal - INFO - ==================================================
+2025-04-02 10:23:51,684 - MockIntegrationFinal - INFO - Membership extension simulated successfully
+2025-04-02 10:23:51,684 - MockIntegrationFinal - INFO - Waiting 3 seconds before next sync...
+2025-04-02 10:23:54,689 - MockIntegrationFinal - INFO - Performing synchronization cycle 1...
+2025-04-02 10:23:54,690 - MockIntegrationFinal - INFO - Starting synchronization
+2025-04-02 10:23:54,692 - MockIntegrationFinal - INFO - Updated member in database: admil.kantarevic@example.com
+2025-04-02 10:23:54,692 - MockIntegrationFinal - INFO - Updated member in database: admir.guberinic@example.com
+2025-04-02 10:23:54,692 - MockIntegrationFinal - INFO - Updated member in database: jure.zupančič@example.com
+2025-04-02 10:23:54,692 - MockIntegrationFinal - INFO - Updated member in database: anja.novak@example.com
+2025-04-02 10:23:54,692 - MockIntegrationFinal - INFO - Updated member in database: matej.vidmar@example.com
+2025-04-02 10:23:54,693 - MockIntegrationFinal - INFO - Updated member in database: nejc.mlakar@example.com
+2025-04-02 10:23:54,693 - MockIntegrationFinal - INFO - Synchronization completed: 0 updates performed
+2025-04-02 10:23:54,693 - MockIntegrationFinal - INFO - 
+Starting simulation cycle 2...
+2025-04-02 10:23:54,695 - MockIntegrationFinal - INFO - Extended membership for nejc.mlakar@example.com by 60 days
+2025-04-02 10:23:54,696 - MockIntegrationFinal - INFO - ==================================================
+2025-04-02 10:23:54,696 - MockIntegrationFinal - INFO - MEMBERSHIP EXTENSION SIMULATION
+2025-04-02 10:23:54,696 - MockIntegrationFinal - INFO - ==================================================
+2025-04-02 10:23:54,696 - MockIntegrationFinal - INFO - Extended membership for: Nejc Mlakar
+2025-04-02 10:23:54,696 - MockIntegrationFinal - INFO - Email: nejc.mlakar@example.com
+2025-04-02 10:23:54,696 - MockIntegrationFinal - INFO - Membership: Študent
+2025-04-02 10:23:54,696 - MockIntegrationFinal - INFO - Old end date: 2025-06-30T23:59:59
+2025-04-02 10:23:54,696 - MockIntegrationFinal - INFO - New end date: 2025-08-29T23:59:59
+2025-04-02 10:23:54,696 - MockIntegrationFinal - INFO - Extended by: 60 days
+2025-04-02 10:23:54,696 - MockIntegrationFinal - INFO - ==================================================
+2025-04-02 10:23:54,696 - MockIntegrationFinal - INFO - Membership extension simulated successfully
+2025-04-02 10:23:54,696 - MockIntegrationFinal - INFO - Waiting 3 seconds before next sync...
+2025-04-02 10:23:57,702 - MockIntegrationFinal - INFO - Performing synchronization cycle 2...
+2025-04-02 10:23:57,702 - MockIntegrationFinal - INFO - Starting synchronization
+2025-04-02 10:23:57,705 - MockIntegrationFinal - INFO - Updated member in database: admil.kantarevic@example.com
+2025-04-02 10:23:57,705 - MockIntegrationFinal - INFO - Updated member in database: admir.guberinic@example.com
+2025-04-02 10:23:57,705 - MockIntegrationFinal - INFO - Updated member in database: jure.zupančič@example.com
+2025-04-02 10:23:57,705 - MockIntegrationFinal - INFO - Updated member in database: anja.novak@example.com
+2025-04-02 10:23:57,705 - MockIntegrationFinal - INFO - Updated member in database: matej.vidmar@example.com
+2025-04-02 10:23:57,705 - MockIntegrationFinal - INFO - Updated member in database: nejc.mlakar@example.com
+2025-04-02 10:23:57,705 - MockIntegrationFinal - INFO - Synchronization completed: 0 updates performed
+2025-04-02 10:23:57,705 - MockIntegrationFinal - INFO - 
+Starting simulation cycle 3...
+2025-04-02 10:23:57,708 - MockIntegrationFinal - INFO - Extended membership for jure.zupančič@example.com by 90 days
+2025-04-02 10:23:57,709 - MockIntegrationFinal - INFO - ==================================================
+2025-04-02 10:23:57,709 - MockIntegrationFinal - INFO - MEMBERSHIP EXTENSION SIMULATION
+2025-04-02 10:23:57,709 - MockIntegrationFinal - INFO - ==================================================
+2025-04-02 10:23:57,709 - MockIntegrationFinal - INFO - Extended membership for: Jure Zupančič
+2025-04-02 10:23:57,709 - MockIntegrationFinal - INFO - Email: jure.zupančič@example.com
+2025-04-02 10:23:57,709 - MockIntegrationFinal - INFO - Membership: 24/7
+2025-04-02 10:23:57,710 - MockIntegrationFinal - INFO - Old end date: 2025-05-19T23:59:59
+2025-04-02 10:23:57,710 - MockIntegrationFinal - INFO - New end date: 2025-08-17T23:59:59
+2025-04-02 10:23:57,710 - MockIntegrationFinal - INFO - Extended by: 90 days
+2025-04-02 10:23:57,710 - MockIntegrationFinal - INFO - ==================================================
+2025-04-02 10:23:57,710 - MockIntegrationFinal - INFO - Membership extension simulated successfully
+2025-04-02 10:23:57,710 - MockIntegrationFinal - INFO - Waiting 3 seconds before next sync...
+2025-04-02 10:24:00,715 - MockIntegrationFinal - INFO - Performing synchronization cycle 3...
+2025-04-02 10:24:00,716 - MockIntegrationFinal - INFO - Starting synchronization
+2025-04-02 10:24:00,717 - MockIntegrationFinal - INFO - Updated member in database: admil.kantarevic@example.com
+2025-04-02 10:24:00,718 - MockIntegrationFinal - INFO - Updated member in database: admir.guberinic@example.com
+2025-04-02 10:24:00,718 - MockIntegrationFinal - INFO - Updated member in database: jure.zupančič@example.com
+2025-04-02 10:24:00,718 - MockIntegrationFinal - INFO - Updated member in database: anja.novak@example.com
+2025-04-02 10:24:00,718 - MockIntegrationFinal - INFO - Updated member in database: matej.vidmar@example.com
+2025-04-02 10:24:00,718 - MockIntegrationFinal - INFO - Updated member in database: nejc.mlakar@example.com
+2025-04-02 10:24:00,718 - MockIntegrationFinal - INFO - Synchronization completed: 0 updates performed
+2025-04-02 10:24:00,718 - MockIntegrationFinal - INFO - 
+Simulation completed successfully
+2025-04-02 10:24:00,719 - MockIntegrationFinal - INFO - 
+==================================================
+2025-04-02 10:24:00,719 - MockIntegrationFinal - INFO - FINAL STATUS REPORT
+2025-04-02 10:24:00,719 - MockIntegrationFinal - INFO - ==================================================
+2025-04-02 10:24:00,719 - MockIntegrationFinal - INFO - Cardskipper active members: 6
+2025-04-02 10:24:00,719 - MockIntegrationFinal - INFO - IVMS users: 14
+2025-04-02 10:24:00,719 - MockIntegrationFinal - INFO - Database members: 6
+2025-04-02 10:24:00,719 - MockIntegrationFinal - INFO - Members synced with IVMS: 2
+2025-04-02 10:24:00,719 - MockIntegrationFinal - INFO - 
+Sample of members synced with IVMS:
+2025-04-02 10:24:00,719 - MockIntegrationFinal - INFO - 
+1. Admil Kantarević
+2025-04-02 10:24:00,720 - MockIntegrationFinal - INFO -    Email: admil.kantarevic@example.com
+2025-04-02 10:24:00,720 - MockIntegrationFinal - INFO -    Cardskipper ID: 1002
+2025-04-02 10:24:00,720 - MockIntegrationFinal - INFO -    IVMS Employee No: 00000053
+2025-04-02 10:24:00,720 - MockIntegrationFinal - INFO -    Role: 24/7
+2025-04-02 10:24:00,720 - MockIntegrationFinal - INFO -    Valid until: 2025-10-16T23:59:59
+2025-04-02 10:24:00,720 - MockIntegrationFinal - INFO - 
+2. Admir Guberinić
+2025-04-02 10:24:00,720 - MockIntegrationFinal - INFO -    Email: admir.guberinic@example.com
+2025-04-02 10:24:00,720 - MockIntegrationFinal - INFO -    Cardskipper ID: 1004
+2025-04-02 10:24:00,720 - MockIntegrationFinal - INFO -    IVMS Employee No: 00000055
+2025-04-02 10:24:00,720 - MockIntegrationFinal - INFO -    Role: 24/7
+2025-04-02 10:24:00,720 - MockIntegrationFinal - INFO -    Valid until: 2026-01-26T23:59:59

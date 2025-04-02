@@ -1,0 +1,373 @@
+{
+  "members": [
+    {
+      "OrganisationMemberId": "1001",
+      "Firstname": "Adi",
+      "Lastname": "Mijatovi\u0107",
+      "Birthdate": "2008-10-11T00:00:00",
+      "MemberCode": "3ket5yk",
+      "ContactInfo": {
+        "EMail": "adi.mijatovic@example.com",
+        "CellPhone1": "+38670123456"
+      },
+      "Organisations": {
+        "Organisation": {
+          "Id": 123,
+          "Roles": {
+            "Role": {
+              "Id": 456,
+              "Name": "Dijak 16-17",
+              "StartDate": "2024-07-01T00:00:00",
+              "EndDate": "2025-02-07T23:59:59",
+              "Type": "Student",
+              "OrganisationUnit": "Youth"
+            }
+          }
+        }
+      },
+      "Extra": {
+        "Extra1": "",
+        "Extra2": "",
+        "Extra3": ""
+      }
+    },
+    {
+      "OrganisationMemberId": "1002",
+      "Firstname": "Admil",
+      "Lastname": "Kantarevi\u0107",
+      "Birthdate": "2005-03-05T00:00:00",
+      "MemberCode": "4rpj24",
+      "ContactInfo": {
+        "EMail": "admil.kantarevic@example.com",
+        "CellPhone1": "+38670234567"
+      },
+      "Organisations": {
+        "Organisation": {
+          "Id": 123,
+          "Roles": {
+            "Role": {
+              "Id": 457,
+              "Name": "24/7",
+              "StartDate": "2024-10-17T00:00:00",
+              "EndDate": "2025-11-15T23:59:59",
+              "Type": "Regular",
+              "OrganisationUnit": "Adult"
+            }
+          }
+        }
+      }
+    },
+    {
+      "OrganisationMemberId": "1003",
+      "Firstname": "Admir",
+      "Lastname": "Feti\u0107",
+      "Birthdate": "1987-04-06T00:00:00",
+      "MemberCode": "cpl48v",
+      "ContactInfo": {
+        "EMail": "admir.fetic@example.com",
+        "CellPhone1": "+38670345678"
+      },
+      "Organisations": {
+        "Organisation": {
+          "Id": 123,
+          "Roles": {
+            "Role": {
+              "Id": 458,
+              "Name": "OG - stari \u010dlan",
+              "StartDate": "2024-03-04T00:00:00",
+              "EndDate": "2025-03-03T23:59:59",
+              "Type": "Regular",
+              "OrganisationUnit": "Adult"
+            }
+          }
+        }
+      }
+    },
+    {
+      "OrganisationMemberId": "1004",
+      "Firstname": "Admir",
+      "Lastname": "Guberini\u0107",
+      "Birthdate": "1994-12-26T00:00:00",
+      "MemberCode": "9m1881",
+      "ContactInfo": {
+        "EMail": "admir.guberinic@example.com",
+        "CellPhone1": "+38670456789"
+      },
+      "Organisations": {
+        "Organisation": {
+          "Id": 123,
+          "Roles": {
+            "Role": {
+              "Id": 457,
+              "Name": "24/7",
+              "StartDate": "2025-01-27T00:00:00",
+              "EndDate": "2026-02-25T23:59:59",
+              "Type": "Regular",
+              "OrganisationUnit": "Adult"
+            }
+          }
+        }
+      }
+    },
+    {
+      "OrganisationMemberId": "1005",
+      "Firstname": "Adrian",
+      "Lastname": "Ko\u010dan",
+      "Birthdate": "2007-12-03T00:00:00",
+      "MemberCode": "u1ua34",
+      "ContactInfo": {
+        "EMail": "adrian.kocan@example.com",
+        "CellPhone1": "+38670567890"
+      },
+      "Organisations": {
+        "Organisation": {
+          "Id": 123,
+          "Roles": {
+            "Role": {
+              "Id": 456,
+              "Name": "Dijak 16-17",
+              "StartDate": "2024-08-15T00:00:00",
+              "EndDate": "2025-02-15T23:59:59",
+              "Type": "Student",
+              "OrganisationUnit": "Youth"
+            }
+          }
+        }
+      }
+    },
+    {
+      "OrganisationMemberId": "1006",
+      "Firstname": "Aida",
+      "Lastname": "Alibovi\u0107",
+      "Birthdate": "1992-05-15T00:00:00",
+      "MemberCode": "h7kl93",
+      "ContactInfo": {
+        "EMail": "aida.alibovic@example.com",
+        "CellPhone1": "+38670678901"
+      },
+      "Organisations": {
+        "Organisation": {
+          "Id": 123,
+          "Roles": {
+            "Role": {
+              "Id": 459,
+              "Name": "Mese\u010dna",
+              "StartDate": "2024-02-20T00:00:00",
+              "EndDate": "2025-02-19T23:59:59",
+              "Type": "Regular",
+              "OrganisationUnit": "Adult"
+            }
+          }
+        }
+      }
+    },
+    {
+      "OrganisationMemberId": "1007",
+      "Firstname": "Luka",
+      "Lastname": "Star\u010devi\u0107",
+      "Birthdate": "1995-03-22T00:00:00",
+      "MemberCode": "p8mn23",
+      "ContactInfo": {
+        "EMail": "luka.starcevic@example.com",
+        "CellPhone1": ""
+      },
+      "Organisations": {
+        "Organisation": {
+          "Id": 123,
+          "Roles": {
+            "Role": {
+              "Id": 459,
+              "Name": "Mese\u010dna",
+              "StartDate": "2025-02-04T00:00:00",
+              "EndDate": "2025-03-06T23:59:59",
+              "Type": "Regular",
+              "OrganisationUnit": "Adult"
+            }
+          }
+        }
+      }
+    },
+    {
+      "OrganisationMemberId": "1008",
+      "Firstname": "Matej",
+      "Lastname": "Kova\u010d",
+      "Birthdate": "1981-02-23T00:00:00",
+      "MemberCode": "79tca5",
+      "ContactInfo": {
+        "EMail": "matej.kova\u010d@example.com",
+        "CellPhone1": "+38674670156"
+      },
+      "Organisations": {
+        "Organisation": {
+          "Id": 123,
+          "Roles": {
+            "Role": {
+              "Id": 458,
+              "Name": "OG - stari \u010dlan",
+              "StartDate": "2024-12-30T10:31:05",
+              "EndDate": "2025-06-30T10:31:05",
+              "Type": "Regular",
+              "OrganisationUnit": "Adult"
+            }
+          }
+        }
+      }
+    },
+    {
+      "OrganisationMemberId": "1009",
+      "Firstname": "Ana",
+      "Lastname": "Zupan\u010di\u010d",
+      "Birthdate": "2008-01-07T00:00:00",
+      "MemberCode": "ve3tc8",
+      "ContactInfo": {
+        "EMail": "ana.zupan\u010di\u010d@example.com",
+        "CellPhone1": "+38678707846"
+      },
+      "Organisations": {
+        "Organisation": {
+          "Id": 123,
+          "Roles": {
+            "Role": {
+              "Id": 457,
+              "Name": "24/7",
+              "StartDate": "2024-10-13T10:31:05",
+              "EndDate": "2025-11-09T10:31:05",
+              "Type": "Regular",
+              "OrganisationUnit": "Adult"
+            }
+          }
+        }
+      }
+    },
+    {
+      "OrganisationMemberId": "1010",
+      "Firstname": "\u017diga",
+      "Lastname": "Poto\u010dnik",
+      "Birthdate": "1992-03-15T00:00:00",
+      "MemberCode": "hpfnjh",
+      "ContactInfo": {
+        "EMail": "\u017eiga.poto\u010dnik@example.com",
+        "CellPhone1": "+38679801477"
+      },
+      "Organisations": {
+        "Organisation": {
+          "Id": 123,
+          "Roles": {
+            "Role": {
+              "Id": 458,
+              "Name": "OG - stari \u010dlan",
+              "StartDate": "2024-10-24T10:31:05",
+              "EndDate": "2025-08-12T10:31:05",
+              "Type": "Regular",
+              "OrganisationUnit": "Adult"
+            }
+          }
+        }
+      }
+    },
+    {
+      "OrganisationMemberId": "1011",
+      "Firstname": "Peter",
+      "Lastname": "Kova\u010di\u010d",
+      "Birthdate": "1981-10-04T00:00:00",
+      "MemberCode": "ox3auu",
+      "ContactInfo": {
+        "EMail": "peter.kova\u010di\u010d@example.com",
+        "CellPhone1": "+38677687503"
+      },
+      "Organisations": {
+        "Organisation": {
+          "Id": 123,
+          "Roles": {
+            "Role": {
+              "Id": 456,
+              "Name": "Dijak 16-17",
+              "StartDate": "2025-02-10T10:31:05",
+              "EndDate": "2025-09-10T10:31:05",
+              "Type": "Student",
+              "OrganisationUnit": "Youth"
+            }
+          }
+        }
+      }
+    },
+    {
+      "OrganisationMemberId": "1012",
+      "Firstname": "Ana",
+      "Lastname": "Kova\u010d",
+      "Birthdate": "2007-08-27T00:00:00",
+      "MemberCode": "xds6hb",
+      "ContactInfo": {
+        "EMail": "ana.kova\u010d@example.com",
+        "CellPhone1": "+38676505135"
+      },
+      "Organisations": {
+        "Organisation": {
+          "Id": 123,
+          "Roles": {
+            "Role": {
+              "Id": 459,
+              "Name": "Mese\u010dna",
+              "StartDate": "2024-12-31T10:31:05",
+              "EndDate": "2025-06-06T10:31:05",
+              "Type": "Regular",
+              "OrganisationUnit": "Adult"
+            }
+          }
+        }
+      }
+    },
+    {
+      "OrganisationMemberId": "1013",
+      "Firstname": "\u017diga",
+      "Lastname": "Novak",
+      "Birthdate": "1990-08-19T00:00:00",
+      "MemberCode": "t5o7ay",
+      "ContactInfo": {
+        "EMail": "\u017eiga.novak@example.com",
+        "CellPhone1": "+38675651674"
+      },
+      "Organisations": {
+        "Organisation": {
+          "Id": 123,
+          "Roles": {
+            "Role": {
+              "Id": 457,
+              "Name": "24/7",
+              "StartDate": "2024-10-17T10:31:05",
+              "EndDate": "2026-01-13T10:31:05",
+              "Type": "Regular",
+              "OrganisationUnit": "Adult"
+            }
+          }
+        }
+      }
+    },
+    {
+      "OrganisationMemberId": "1014",
+      "Firstname": "Eva",
+      "Lastname": "Golob",
+      "Birthdate": "2000-08-26T00:00:00",
+      "MemberCode": "xihenk",
+      "ContactInfo": {
+        "EMail": "eva.golob@example.com",
+        "CellPhone1": "+38671185803"
+      },
+      "Organisations": {
+        "Organisation": {
+          "Id": 123,
+          "Roles": {
+            "Role": {
+              "Id": 459,
+              "Name": "Mese\u010dna",
+              "StartDate": "2024-11-07T10:31:05",
+              "EndDate": "2025-06-18T10:31:05",
+              "Type": "Regular",
+              "OrganisationUnit": "Adult"
+            }
+          }
+        }
+      }
+    }
+  ]
+}
